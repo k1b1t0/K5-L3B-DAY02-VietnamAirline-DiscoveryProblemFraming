@@ -9,7 +9,7 @@
 - Họ tên: Nguyễn Thanh Tùng
 - MSSV: 2A202603957
 - Tên nhóm: VietnamAirline
-- Link repo nhóm:
+- Link repo nhóm: https://github.com/k1b1t0/K5-L3B-DAY02-VietnamAirline-DiscoveryProblemFraming/tree/main
 
 ---
 
@@ -134,7 +134,7 @@ Quy trình nháp hiện tại:
 | Pitch Problem Card | Tôi pitch card của tôi và cùng vote lựa chọn | Đóng góp 3 bài toán vào danh sách chung để nhóm lựa chọn |
 | Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: "Có yếu tố gì cải thiện hay khác biệt đối với tính năng trên Discord đang sử dụng?" | Có thể cải thiện ở hiểu ngữ nghĩa lỗi để tìm đúng thread và tóm tắt các tin nhắn thử–sai thành hướng dẫn ngắn gọn kèm link nguồn, giúp học viên không phải mở đọc từng thread rải rác trên Discord. |
 | Nhận phản biện | Câu hỏi tôi nhận được: "Đây thuần túy là sự cố tích hợp dữ liệu và thiết kế dashboard kém, chỉ cần nhúng connector/embed link là xong chứ không cần quy trình phức tạp hay AI."| Tôi đã sửa gì: chỉ nên chỉ ứng dụng AI ở bước cuối để tự động viết bản nháp tóm tắt nhận định. |
-| Gom cluster / cây OST | Tôi tổng hợp và cluster lại | Tôi nhận ra pattern chung và từ đó phân tích thêm về ý kiến nổi bật |
+| Gom cluster / cây OST | Tôi hỗ trợ tổng hợp và cluster lại | Tôi nhận ra pattern chung và từ đó phân tích thêm về ý kiến nổi bật |
 | Chọn candidate problem | Tôi bần luận với nhóm và vote| Theo problem lấy thông tin qua Discord|
 | Kiểm chứng / research | Tôi đóng góp ý kiến và format survey và nhưng gì nên điền trong research | |
 | Quy trình nhóm | Tôi cùng phân tích quy trình hiện tại và đề xuất hướng cảu thiện quy trình mói| Giảm thiểu các bước cần thủ công |
@@ -153,7 +153,7 @@ Quy trình nháp hiện tại:
 | CP4 Research | Không dùng | | | |
 | CP5 Quy trình | Không dùng | | | |
 | CP5–6 Problem Statement | Không dùng | | | |
-| CP6 Mức can thiệp / quyết định | Không dùng | | | |
+| CP6 Mức can thiệp / quyết định | Phản biện các ý kiến ban đầu của tôi về các mức độ can thiệp | Đối chiếu phân tích các khia cạnh của hướng đi | Ban đầu giải thích chưa rõ, nói khá chung | Xác định rõ lại các tool và scope để cụ thể hóa các quyền hạn và mức độ|
 
 ---
 
