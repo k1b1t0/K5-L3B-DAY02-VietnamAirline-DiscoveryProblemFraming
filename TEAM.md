@@ -14,7 +14,7 @@
 | --: | --------------- | ----------- | ------------------ | ----------------------------------- |
 |   1 | Nguyễn Minh Đức | 2A202603960 | Điều phối          | [k1b1t0](https://github.com/k1b1t0) |
 |   2 | Bùi Đình Quý Anh | 2A202603969 | Viết Problem Statement, phụ trách Assumption Map | [buiquyanh9-ai](https://github.com/buiquyanh9-ai) |
-|   3 |                 |             |                    |                                     |
+|   3 | Đỗ Việt Anh     | 2A202603973 |Gom cluster và chấm điểm shortlist (CP3), vẽ quy trình trước/sau (CP5)  |[vietahnn](https://github.com/vietahnn)    |
 |   4 |                 |             |                    |                                     |
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
@@ -25,11 +25,11 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 | Checkpoint                                 | Người chính     | Người hỗ trợ    | Sản phẩm                                       |
 | ------------------------------------------ | --------------- | --------------- | ---------------------------------------------- |
-| CP3 — Hội tụ nhóm                          |                 |                 | Cluster, cây OST, bảng chấm điểm               |
+| CP3 — Hội tụ nhóm                          |Đỗ Việt Anh      |                 | Cluster, cây OST, bảng chấm điểm               |
 | CP4 — Kiểm chứng                           |Bùi Đình Quý Anh | Nguyễn Minh Đức | Assumption map, snapshot hoặc survey           |
 | CP4 — Research                             | Nguyễn Minh Đức |                 | Bảng research có link                          |
-| CP5 — Quy trình trước/sau                  |                 |                 | Quy trình + bảng before/after                  |
-| CP5 — Problem Statement v0                 |Bùi Đình Quý Anh |                 | Problem Statement v0                           |
+| CP5 — Quy trình trước/sau                  |Đỗ Việt Anh      |                 | Quy trình + bảng before/after                  |
+| CP5 — Problem Statement v0                 |Bùi Đình Quý Anh | Đỗ Việt Anh     | Problem Statement v0                           |
 | CP6 — Mức can thiệp + Problem Statement v1 |                 |                 | Ma trận, AI Canvas, eval, Problem Statement v1 |
 | CP6 — Quyết định                           | Nguyễn Minh Đức | Bùi Đình Quý Anh| 4 rủi ro + Go/Not Yet/No-Go                    |
 
