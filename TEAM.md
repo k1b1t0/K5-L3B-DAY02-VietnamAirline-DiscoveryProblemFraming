@@ -12,7 +12,7 @@
 
 | STT | Họ và tên       | MSSV        | Vai trò trong nhóm | Tài khoản GitHub                    |
 | --: | --------------- | ----------- | ------------------ | ----------------------------------- |
-|   1 | Nguyễn Minh Đức | 2A202603960 | Điều phối          | [k1b1t0](https://github.com/k1b1t0) |
+|   1 | Nguyễn Minh Đức | 2A202603960 | Điều phối, Research giải pháp đã có         | [k1b1t0](https://github.com/k1b1t0) |
 |   2 | Bùi Đình Quý Anh | 2A202603969 | Viết Problem Statement, phụ trách Assumption Map | [buiquyanh9-ai](https://github.com/buiquyanh9-ai) |
 |   3 | Đỗ Việt Anh     | 2A202603973 |Gom cluster và chấm điểm shortlist (CP3), vẽ quy trình trước/sau (CP5)  |[vietahnn](https://github.com/vietahnn)    |
 |   4 |Nguyễn Thanh Tùng| 2A202603957 | Hỗ trợ cluster các nhóm, hỗ trợ Quy trình, Phân tích Mức độ can thiệp AI| [wewewewe07](https://github.com/wewewewe07) |
