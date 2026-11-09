@@ -171,11 +171,11 @@ Tổng: ~25 phút/buổi (rải rác ở nhiều nguồn)
 Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ cho các câu 6.1–6.6 (không tính 6.7, câu này được chấm riêng ở tiêu chí C5). **Không dùng AI để viết thay.**
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
-- Khi tôi nghe top 3 problems của các bạn khác, tôi thấy đa phần đều là các thao tác thủ công lặp đi lặp lại như tổng hợp tài liệu, ghi chép cuộc họp hay kiểm tra đánh giá hồ sơ. Mức đau và tần suất khác nhau, một số bài toán nghe qua hấp dẫn, nhưng khi nhìn kỹ thì đa phần đã có lời giải hoặc LLM có thể làm thay rồi.
+- Khi tôi nghe top 3 problems của các bạn khác, tôi thấy đa phần đều là các thao tác thủ công lặp đi lặp lại như tổng hợp tài liệu, ghi chép cuộc họp hay kiểm tra đánh giá hồ sơ. Mức đau và tần suất khác nhau, một số bài toán nghe qua hấp dấn, nhưng khi nhìn kỹ thì đa phần đã có lười giải hoặc LLM có thể làm thay rồi.
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
 - Từ lúc thảo luận ý tưởng, cả nhóm thường có xu hướng nghĩ ngay đến ứng dụng AI Agent hoặc chat bot cho dự án. Sau khi phản biện chéo và kiểm tra đặt câu hỏi lại theo mẫu, cả nhóm dần nhận ra mình đã vô thức tập trung vào kết quả thay vì vấn đề, từ đó tập trung đi sâu vào vấn đề, workflow.
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
-- Khi pitch ý tưởng về dự án đoán ngưỡng năng lực học tập để gợi ý tài liệu phù hợp, tôi đã không nghĩ đến các metric đo lường độ hiệu quả của giải pháp mà mặc nhiên cho rằng nó sẽ hoạt động như 1 AI Agent. Nhận thấy rủi ro về tính khả thi và giá trị thực tế nên tôi đã chủ động loại bỏ.
+- Khi pitch ý tưởng về dự án đoán ngưỡng năng lực học tập để gợi ý tài liệu phù hợp, tôi đã không nghĩ đến các metric đo lường độ hiểu quả của giải pháp mà mặc nhiên cho rằng nó sẽ hoạt động như 1 AI Agent. Nhận thấy rủi ro về tính khả thi và giá trị thực tế nên tôi đã chủ động loại bỏ
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
 - Kết quả phỏng vấn không làm tôi bất ngờ, vì nó là vấn đề mà nhóm tôi đã gặp và dự đoán các bạn khác trong lớp cũng sẽ gặp. Cũng do chúng tôi để ý nhiều câu hỏi bị trùng lặp trong discord đã dẫn đến ý tưởng này.
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
