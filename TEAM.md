@@ -15,7 +15,8 @@
 |   1 | Nguyễn Minh Đức | 2A202603960 | Điều phối          | [k1b1t0](https://github.com/k1b1t0) |
 |   2 | Bùi Đình Quý Anh | 2A202603969 | Viết Problem Statement, phụ trách Assumption Map | [buiquyanh9-ai](https://github.com/buiquyanh9-ai) |
 |   3 | Đỗ Việt Anh     | 2A202603973 |Gom cluster và chấm điểm shortlist (CP3), vẽ quy trình trước/sau (CP5)  |[vietahnn](https://github.com/vietahnn)    |
-|   4 |                 |             |                    |                                     |
+|   4 |Nguyễn Thanh Tùng| 2A202603957 | Hỗ trợluster các nhóm, hỗ trợ Quy trình, Phân tích Mức độ can thiệp AI| [wewewewe07](https://github.com/wewewewe07) |
+|   5 |                 |             |                    |                                     |
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
 
@@ -25,12 +26,12 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 | Checkpoint                                 | Người chính     | Người hỗ trợ    | Sản phẩm                                       |
 | ------------------------------------------ | --------------- | --------------- | ---------------------------------------------- |
-| CP3 — Hội tụ nhóm                          |Đỗ Việt Anh      |                 | Cluster, cây OST, bảng chấm điểm               |
+| CP3 — Hội tụ nhóm                          |Đỗ Việt Anh      |Nguyễn Thanh Tùng| Cluster, cây OST, bảng chấm điểm               |
 | CP4 — Kiểm chứng                           |Bùi Đình Quý Anh | Nguyễn Minh Đức | Assumption map, snapshot hoặc survey           |
 | CP4 — Research                             | Nguyễn Minh Đức |                 | Bảng research có link                          |
-| CP5 — Quy trình trước/sau                  |Đỗ Việt Anh      |                 | Quy trình + bảng before/after                  |
+| CP5 — Quy trình trước/sau                  |Đỗ Việt Anh      |Nguyễn Thanh Tùng| Quy trình + bảng before/after                  |
 | CP5 — Problem Statement v0                 |Bùi Đình Quý Anh | Đỗ Việt Anh     | Problem Statement v0                           |
-| CP6 — Mức can thiệp + Problem Statement v1 |                 |                 | Ma trận, AI Canvas, eval, Problem Statement v1 |
+| CP6 — Mức can thiệp + Problem Statement v1 |Nguyễn Thanh Tùng|                 | Ma trận, AI Canvas, eval, Problem Statement v1 |
 | CP6 — Quyết định                           | Nguyễn Minh Đức | Bùi Đình Quý Anh| 4 rủi ro + Go/Not Yet/No-Go                    |
 
 ## Cá nhân
@@ -78,6 +79,30 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 **Điều mình học được từ phần nhóm:**
 
 - Phản biện, học thêm về quy trình lựa chọn và thiết kế 1 dự án AI.
+
+### NguyenThanhTung-2A202603957
+
+**Phần việc phụ trách:**
+
+- Pitch 3 problem card
+- Hỗ trợ cluster các nhóm, hỗ trợ Quy trình, Phân tích Mức độ can thiệp AI
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Pitch problem card cá nhân và cùng cả nhóm thảo luận chọn bài toán.
+- Phân tích cluster và viết Opportunity Solution
+- Viết quy trình tương lai
+- Phân tích và viêt mức độ can thiệp AI
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- File cá nhân: `report/individual/2A202603957_NguyenThanhTung.md`.
+- File nhóm: `report/team/group_report.md` (Mục 2.3, 4.2, 4.3, 6.).
+- File assets: `report/assets/cp5-workflow-future.png`.
+
+**Điều mình học được từ phần nhóm:**
+
+- Phân tích problem rồi mới đến solution, cần tập trung rõ và phân tích kỹ càng 2 mục
 
 ### HoVaTen-MSSV
 
