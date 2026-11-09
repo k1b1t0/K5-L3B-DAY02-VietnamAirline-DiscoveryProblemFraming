@@ -14,7 +14,6 @@
 | --: | --------------- | ----------- | ------------------ | ----------------------------------- |
 |   1 | Nguyễn Minh Đức | 2A202603960 | Điều phối          | [k1b1t0](https://github.com/k1b1t0) |
 |   2 | Bùi Đình Quý Anh | 2A202603969 | Viết Problem Statement, phụ trách Assumption Map | [buiquyanh9-ai](https://github.com/buiquyanh9-ai) |
-
 |   3 |                 |             |                    |                                     |
 |   4 |                 |             |                    |                                     |
 
