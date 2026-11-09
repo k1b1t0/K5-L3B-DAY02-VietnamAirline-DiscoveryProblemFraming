@@ -21,7 +21,7 @@
 | 2 | **Tốn thời gian** | Khi cần làm báo cáo tiến độ dự án hằng tuần cho CEO, tôi muốn các biểu đồ từ Power BI và số liệu Jira gom chung 1 chỗ, để không phải mở luân phiên nhiều tab, chụp màn hình và căn chỉnh lại slide | PM | Tổng hợp và formatting thủ công (45 phút/lần) |
 | 3 | **Pain từ người khác** | Khi các bạn Dev chuẩn bị bắt đầu sprint mới, tôi muốn các ticket có sẵn Acceptance Criteria rõ ràng từ BA/PO, để không phải liên tục ping PM hỏi lại yêu cầu | Dev, PM, BA/PO | Làm rõ yêu cầu chưa chuẩn chỉnh (3-5 lần hỏi/sprint) |
 | 4 | **Đọc tổng hợp** | Khi có quá nhiều task cùng hạn, tôi muốn biết nên làm việc nào trước, để không trễ việc quan trọng | PM, team | Gần như task nào cũng ưu tiên, đã xảy ra trễ 3 task |
-| 5 | **Lặp lại** | Khi cập nhật báo cáo plan hàng tuần, tôi muốn có sẵn các thông tin về sản phẩm như thời gian hoàn thành 1 sản phẩm, số người cần..., để không phải copy tay từ Power BI |
+| 5 | **Lặp lại** | Khi cập nhật báo cáo plan hàng tuần, tôi muốn có sẵn các thông tin về sản phẩm như thời gian hoàn thành 1 sản phẩm, số người cần..., để không phải copy tay từ Power BI | PM | Mỗi tuần 2 lần, mất khoảng 40 phút/lần|
 
 **Nếu có dùng AI để gợi ý thêm:** ý nào AI gợi ý mà bạn giữ lại, ý nào bỏ và vì sao.
 
