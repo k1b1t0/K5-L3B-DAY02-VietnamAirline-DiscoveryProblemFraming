@@ -104,6 +104,30 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 - Phân tích problem rồi mới đến solution, cần tập trung rõ và phân tích kỹ càng 2 mục
 
+### GiangThaiSon-2A202603964
+
+**Phần việc phụ trách:**
+
+- Khảo sát và phân tích vấn đề (CP1–CP2).
+- Hỗ trợ research giải pháp (CP4), xây dựng quy trình trước/sau (CP5) và phân tích mức can thiệp AI (CP6).
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Khảo sát 10 vấn đề trong bối cảnh Fresher AI Engineer, xây dựng và pitch 3 Problem Cards cá nhân.
+- Tham gia thảo luận, đánh giá và lựa chọn vấn đề chung của nhóm.
+- Hỗ trợ phân tích quy trình trước/sau, xác định bottleneck, thời gian xử lý và các bước can thiệp của AI.
+- Hỗ trợ nghiên cứu giải pháp có sẵn và phân tích lựa chọn Workflow kết hợp AI với Human-in-the-Loop.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- File cá nhân: `report/individual/2A202603964_GiangThaiSon.md`.
+- File nhóm: `report/team/group_report.md` (Mục 2.1, 3.3, 4, 6).
+- File assets: `report/assets/cp5-workflow-before.png` và `cp5-workflow-future.png`.
+
+**Điều mình học được từ phần nhóm:**
+
+- Hiểu cách xác định vấn đề thực tế, phân tích bottleneck và lựa chọn mức can thiệp AI phù hợp thay vì đưa ra giải pháp ngay từ đầu.
+
 ### HoVaTen-MSSV
 
 **Phần việc phụ trách:**
