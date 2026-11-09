@@ -14,7 +14,7 @@
 |---:|---|---|---|---|
 | 1 | | | | |
 | 2 | | | | |
-| 3 | | | | |
+| 3 | Đỗ Việt Anh | 2A202603973 | Gom cluster, chấm điểm shortlist (CP3), vẽ quy trình trước/sau (CP5) | [vietahnn](https://github.com/vietahnn) |
 | 4 | | | | |
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
