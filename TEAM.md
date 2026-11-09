@@ -13,7 +13,8 @@
 | STT | Họ và tên       | MSSV        | Vai trò trong nhóm | Tài khoản GitHub                    |
 | --: | --------------- | ----------- | ------------------ | ----------------------------------- |
 |   1 | Nguyễn Minh Đức | 2A202603960 | Điều phối          | [k1b1t0](https://github.com/k1b1t0) |
-|   2 |                 |             |                    |                                     |
+|   2 | Bùi Đình Quý Anh | 2A202603969 | Viết Problem Statement, phụ trách Assumption Map | [buiquyanh9-ai](https://github.com/buiquyanh9-ai) |
+
 |   3 |                 |             |                    |                                     |
 |   4 |                 |             |                    |                                     |
 
@@ -26,12 +27,12 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 | Checkpoint                                 | Người chính     | Người hỗ trợ    | Sản phẩm                                       |
 | ------------------------------------------ | --------------- | --------------- | ---------------------------------------------- |
 | CP3 — Hội tụ nhóm                          |                 |                 | Cluster, cây OST, bảng chấm điểm               |
-| CP4 — Kiểm chứng                           |                 | Nguyễn Minh Đức | Assumption map, snapshot hoặc survey           |
+| CP4 — Kiểm chứng                           |Bùi Đình Quý Anh | Nguyễn Minh Đức | Assumption map, snapshot hoặc survey           |
 | CP4 — Research                             | Nguyễn Minh Đức |                 | Bảng research có link                          |
 | CP5 — Quy trình trước/sau                  |                 |                 | Quy trình + bảng before/after                  |
-| CP5 — Problem Statement v0                 |                 |                 | Problem Statement v0                           |
+| CP5 — Problem Statement v0                 |Bùi Đình Quý Anh |                 | Problem Statement v0                           |
 | CP6 — Mức can thiệp + Problem Statement v1 |                 |                 | Ma trận, AI Canvas, eval, Problem Statement v1 |
-| CP6 — Quyết định                           | Nguyễn Minh Đức |                 | 4 rủi ro + Go/Not Yet/No-Go                    |
+| CP6 — Quyết định                           | Nguyễn Minh Đức | Bùi Đình Quý Anh| 4 rủi ro + Go/Not Yet/No-Go                    |
 
 ## Cá nhân
 
@@ -54,6 +55,30 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 **Điều mình học được từ phần nhóm:**
 - Hiểu rõ phương pháp The Mom Test: hỏi về hành vi quá khứ và cách giải quyết thực tế thay vì hỏi ý kiến tương lai.
+
+### BuiDinhQuyAnh-2A202603969
+
+**Phần việc phụ trách:**
+
+- Pitch 3 problem card, trong đó card "Tìm lại câu trả lời cũ của coach trong Discord" (#5) được nhóm chọn.
+- Phụ trách Assumption Map (CP4), Problem Statement v0 (CP5) và bảng 4 rủi ro (CP6).
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Pitch 3 candidate #4, #5, #6 kèm số liệu thật (15 phút/lần, 2 lần/tuần cho #5).
+- Viết Assumption Map: 4 giả định, chấm mức quan trọng và mức bằng chứng, chọn cách kiểm cho từng giả định.
+- Viết các trường Bottleneck, Impact, Success Metric, Boundary của Problem Statement v0; thêm thời gian cho từng bước quy trình.
+- Đưa Problem Statement v0 cho AI phản biện, ghi lại các điểm nhóm đồng ý (thiếu bước hỏi bạn cùng nhóm, thiếu bước áp dụng cách sửa).
+- Viết bảng 4 rủi ro Value / Usability / Feasibility / Viability.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- File cá nhân: `report/individual/2A202603969_BuiDinhQuyAnh.md` (branch `2A202603969_BuiDinhQuyAnh`, commit `9447d11`).
+- File nhóm: `report/team/group_report.md`, mục 2.1 (candidate #4–#6), 3.1, 5, 8.1.
+
+**Điều mình học được từ phần nhóm:**
+
+- Phản biện, học thêm về quy trình lựa chọn và thiết kế 1 dự án AI.
 
 ### HoVaTen-MSSV
 
