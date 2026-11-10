@@ -149,7 +149,7 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 - File cá nhân: `report/individual/2A202603973_DoVietAnh.md`.
 - File nhóm: `report/team/group_report.md`, mục 2.2 (cluster), 2.3 (cây OST), 2.4 (bảng chấm điểm), 4.1 (quy trình hiện tại), 4.3 (before/after), 5 (hỗ trợ Problem Statement v0), 7 (hỗ trợ Problem Statement v1 và tiêu chí đánh giá).
-- File assets: `report/assets/cp5-workflow-before.png`.
+
 
 **Điều mình học được từ phần nhóm:**
 
