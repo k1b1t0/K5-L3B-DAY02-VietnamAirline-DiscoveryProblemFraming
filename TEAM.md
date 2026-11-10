@@ -130,20 +130,28 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 - Hiểu cách xác định vấn đề thực tế, phân tích bottleneck và lựa chọn mức can thiệp AI phù hợp thay vì đưa ra giải pháp ngay từ đầu.
 
-### HoVaTen-MSSV
+### DoVietAnh-2A202603973
 
 **Phần việc phụ trách:**
 
--
+- Gom cluster, dựng cây OST và lập bảng chấm điểm shortlist (CP3).
+- Vẽ quy trình trước/sau và bảng before/after (CP5).
+- Hỗ trợ viết Problem Statement v0 (CP5) và Problem Statement v1 cùng bộ tiêu chí đánh giá đầu ra của AI (CP6).
 
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
 
--
+- Gom candidate của cả nhóm thành 4 cluster (Báo cáo/Tổng hợp, Tìm kiếm, Review, Theo dõi việc) và dựng cây OST với 1 outcome, 3 opportunity.
+- Gạch bỏ 2 ý là solution đội lốt ở tầng opportunity: "Vector DB / Bot hỏi đáp nội bộ" và "AI tóm tắt lịch sử thread Discord".
+- Lập bảng chấm điểm shortlist trên 7 tiêu chí cho 3 candidate, viết lý do loại 2 candidate còn lại và ghi rõ phần bất đồng, đề xuất cách chấm điểm để nhóm thống nhất.
+- Vẽ quy trình hiện tại 6 bước có nhánh "không tìm ra thì hỏi lại coach", quy trình tương lai 3 bước có đánh dấu Rule/AI/Con người kèm boundary, HITL và phương án quay về, và lập bảng before/after.
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
--
+- File cá nhân: `report/individual/2A202603973_DoVietAnh.md`.
+- File nhóm: `report/team/group_report.md`, mục 2.2 (cluster), 2.3 (cây OST), 2.4 (bảng chấm điểm), 4.1 (quy trình hiện tại), 4.3 (before/after), 5 (hỗ trợ Problem Statement v0), 7 (hỗ trợ Problem Statement v1 và tiêu chí đánh giá).
+- File assets: `report/assets/cp5-workflow-before.png`.
 
 **Điều mình học được từ phần nhóm:**
 
--
+- Hiểu vì sao gom theo pattern lại quan trọng hơn là bảo vệ candidate của mình: candidate "khách hỏi trạng thái hồ sơ" của tôi gần với bài nhóm chọn nhất, nhưng tôi đã xếp nó vào cluster Review và Theo dõi việc vì nhìn theo nghiệp vụ bảo hiểm thay vì theo pattern "tìm lại thông tin đã có".
+- Hiểu cách vẽ quy trình cho đúng: quy trình phải có cả nhánh "không tìm ra thì hỏi lại", nếu không thì quy trình tự nó phải thành công, tức là vẽ sai thật.
