@@ -10,6 +10,7 @@
 
 ## Thành viên
 
+
 | STT | Họ và tên       | MSSV        | Vai trò trong nhóm | Tài khoản GitHub                    |
 | --: | --------------- | ----------- | ------------------ | ----------------------------------- |
 |   1 | Nguyễn Minh Đức | 2A202603960 | Điều phối, Research giải pháp đã có         | [k1b1t0](https://github.com/k1b1t0) |
@@ -17,6 +18,7 @@
 |   3 | Đỗ Việt Anh     | 2A202603973 |Gom cluster và chấm điểm shortlist (CP3), vẽ quy trình trước/sau (CP5)  |[vietahnn](https://github.com/vietahnn)    |
 |   4 |Nguyễn Thanh Tùng| 2A202603957 | Hỗ trợ cluster các nhóm, hỗ trợ Quy trình, Phân tích Mức độ can thiệp AI| [wewewewe07](https://github.com/wewewewe07) |
 |   5 |Giang Thái Sơn |  2A202603964  |Khảo sát và phân tích vấn đề (CP1–CP2), hỗ trợ xây dựng quy trình trước/sau (CP5)| [son309](https://github.com/son309)|
+
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
 
